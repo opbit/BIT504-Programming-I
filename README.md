@@ -1,2 +1,3 @@
 # BIT504-Programming-I
-This repository is for BIT504
+
+This repository is used to store code related to BIT504
